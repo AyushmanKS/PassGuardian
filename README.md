@@ -1,16 +1,7 @@
-# passdiary
+# PassGuardian
+a password generator and validator appp to check strength of a password and generate robust passwords. 
 
-A new Flutter project.
+![1](https://github.com/user-attachments/assets/c41b5058-dcf7-4cf6-83a2-8a3564b03988)
+![2](https://github.com/user-attachments/assets/4016e855-8cec-4b97-a786-3fb415e9b455)
+![3](https://github.com/user-attachments/assets/21934981-43d5-4470-86ec-6d0546d0ac51)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
